@@ -22,8 +22,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Visual Search
-- Cognitive/Attentional Control
-- Drown/Signal Detection
+- Executive Function/Working Memory Capacity
+- Attention Control
+- Signal Detection
 
 education:
   courses:
