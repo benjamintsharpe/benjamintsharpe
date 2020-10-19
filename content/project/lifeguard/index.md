@@ -11,10 +11,10 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: An investigation into naturally-produced code-switching in the home
+summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 # tags:
 # - Drown-Detection
-title: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
+title: PhD Thesis.
 url_code: ""
 url_pdf: ""
 url_slides: ""
