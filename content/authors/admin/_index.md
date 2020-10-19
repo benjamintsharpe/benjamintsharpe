@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Chichester
-    year: 2018-Current
+    year: Current
   - course: MSc in Psychology of Sport and Exercise
     institution: University of Gloucestershire
-    year: 2015-2016
+    year: 2016
   - course: BSc in Applied Sport and Exercise Science Studies
     institution: University of Gloucestershire
-    year: 2014-2015
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
