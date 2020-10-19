@@ -14,7 +14,7 @@ image:
 summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 # tags:
 # - Drown-Detection
-title: PhD Thesis.
+title: PhD Thesis
 url_code: ""
 url_pdf: ""
 url_slides: ""
