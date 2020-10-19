@@ -9,7 +9,7 @@ image:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: https://twitter.com/georgecushen 
 #slides: example-slides
 summary: The best GPU on the market, 10,000 hours of practice, or a lot of luck? Guest author for PsychologyToday blog series.
 # tags:
