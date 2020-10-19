@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Visual Search
+- Cognitive/Attentional Control
+- Drown/Signal Detection
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Psychology
     institution: University of Chichester
-    year: 2012
+    year: 2018-Current
   - course: MSc in Psychology of Sport and Exercise
     institution: University of Gloucestershire
     year: 2015-2016
