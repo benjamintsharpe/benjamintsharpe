@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
+summary: The best GPU on the market, 10,000 hours of practice, or a lot of luck? Guest author for PsychologyToday blog series.
 # tags:
 # - Drown-Detection
 title: What Does It Take to Become an Expert Esports Competitor?
