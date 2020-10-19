@@ -82,5 +82,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-text-align: justify 
 My current research interests focus on mechanisms (e.g., visual, cognitive) that may systematically discriminate individuals with varying degrees of experience, performance capabilities and levels of expertise. My PhD focusses on developing a greater understanding of the factors and processes that are involved in facilitating superior drown detection performance among lifeguards. I’m interested in collaborating in any research that aligns with my interests. Contact me at [b.sharpe@chi.ac.uk](b.sharpe@chi.ac.uk).
