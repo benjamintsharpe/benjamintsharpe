@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=QF05WXgAAAAJ&hl=en
-%- %icon: github
-  %icon_pack: fab
-  %link: 
+# - %icon: github
+#   %icon_pack: fab
+#  %link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-My current research interests focus on mechanisms (e.g., visual, cognitive) that may systematically discriminate individuals with varying degrees of experience, performance capabilities and levels of expertise. My PhD focusses on developing a greater understanding of the factors and processes that are involved in facilitating superior drown detection performance among lifeguards. I’m interested in collaborating in any research that aligns with my interests. Contact me at b.sharpe@chi.ac.uk.
+My current research interests focus on mechanisms (e.g., visual, cognitive) that may systematically discriminate individuals with varying degrees of experience, performance capabilities and levels of expertise. My PhD focusses on developing a greater understanding of the factors and processes that are involved in facilitating superior drown detection performance among lifeguards. I’m interested in collaborating in any research that aligns with my interests. Contact me at [b.sharpe@chi.ac.uk](b.sharpe@chi.ac.uk).
