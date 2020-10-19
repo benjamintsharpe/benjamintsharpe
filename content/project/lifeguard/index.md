@@ -13,7 +13,7 @@ image:
 #slides: example-slides
 summary: An investigation into naturally-produced code-switching in the home
 # tags:
- - Drown-Detection
+# - Drown-Detection
 title: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 url_code: ""
 url_pdf: ""
