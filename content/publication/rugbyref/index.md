@@ -4,7 +4,7 @@ authors:
 - LV Kremin
 date: "2017-11-07T00:00:00-04:00"
 doi: ""
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: "Center"
