@@ -100,7 +100,7 @@ address = {street = "University of Chichester, College Lane", city = "Chichester
 coordinates = {latitude = "50.844490", longitude = "-0.775820"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "bensharpe24"
 
 ############################
 ## Regional Settings
@@ -140,7 +140,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
