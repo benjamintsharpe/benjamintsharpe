@@ -14,7 +14,7 @@ image:
 summary: The best GPU on the market, 10,000 hours of practice, or a lot of luck? Guest author for PsychologyToday blog series.
 # tags:
 # - Drown-Detection
-title: What Does It Take to Become an Expert Esports Competitor?
+title: What does it take to become an expert eSports competitior?
 url_code: ""
 url_pdf: ""
 url_slides: ""
