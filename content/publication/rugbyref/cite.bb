@@ -1,8 +1,8 @@
 @ARTICLE {,
-    author  = "Lena V. Kremin",
-    title   = "Sexist swearing and slurs: Responses to gender-directed insults",
-    journal = "LingUU",
-    year    = "2017",
-    volume  = "1",
-    pages   = "18-25"
+    author  = "L J Moore, D J Harris, B T Sharpe, S J Vine, M R Wilson",
+    title   = "Perceptual-cognitive expertise when refereeing the scrum in rugby union",
+    journal = "Journal of Sports Sciences",
+    year    = "2019",
+    volume  = "37",
+    pages   = "1778-1786"
 }
