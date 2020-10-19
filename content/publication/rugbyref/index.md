@@ -1,5 +1,5 @@
 ---
-abstract: Swearing is a part of everyday life for many, but its functions, and the reasons why certain words are deemed “taboo”, may not be immediately apparent. In particular, the use of slurs serves the functions of policing socially undesirable behaviors, and bringing groups of people together. A subset of swear words can be described as being directed specifically towards one gender, and are mainly used to police behaviors that do not conform to a society’s ideas of masculinity or femininity. Slurs directed towards, and judged most offensive by women comment on sexual, or aggressive behavior, whereas slurs directed towards, and judged most offensive by men imply that they are being too soft or “womanly”. These categories follow patriarchal views on gender roles. The perception of gender-directed swear words can be described by the Affective Language Communication Model (Van Berkum, in prep), which incorporates a speaker’s stance and intention into the listener’s interpretation and response. In order to assess if the degree of offensiveness is internalized by a listener, an EEG study is proposed. It is hypothesized that gender-congruent slurs will elicit larger responses than gender-incongruent slurs, and that one’s level of acceptance of society’s gender expectations could affect perceived offensiveness.
+abstract: Compared to sports performers, relatively little is known about how sports officials make decisions at a perceptual-cognitive level. Thus, this study examined the decision-making accuracy and gaze behaviour of rugby union referees of varying skill levels while reviewing scrum scenarios. Elite (n = 9) and trainee (n = 9) referees, as well as experienced players (n = 9), made decisions while watching ten projected scrum clips and wearing a mobile eye-tracker. Decision-making accuracy and gaze behaviour were recorded for each scrum. The elite and trainee referees made more accurate decisions than the players, and differences in gaze behavior were observed. The elite and trainee referees displayed lower search rates, spent more time fixating central-pack (i.e., front rows, binds, and contact point) and less time fixating outer-pack (e.g., second rows) and non-pack (e.g., other) locations, and exhibited lower entropy than the players. While search rate failed to predict decision-making accuracy, the time spent fixating central-, outer-, and non-pack locations, as well as entropy, were significant predictors. The findings have implications for training perceptual-cognitive skill among sports officials.
 authors:
 - LV Kremin
 date: "2017-11-07T00:00:00-04:00"
@@ -10,11 +10,11 @@ image:
   focal_point: "Center"
 links:
 - name: Full Article
-  url: https://www.researchgate.net/profile/Lena_Kremin/publication/320931641_Sexist_swearin#g_and_slurs_Responses_to_gender-directed_insults/links/5a0325af0f7e9b3d40203e39/Sexist-swear#ing-and-slurs-Responses-to-gender-directed-insults.pdf
+  url: https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1594568
 math: true
 projects:
-#- lenamix
-publication: In *LingUU*
+# - lenamix
+publication: In *Journal of Sports Sciences*
 #publication_short: 
 publication_types:
 - "2"
@@ -25,10 +25,10 @@ publication_types:
 #  store location, to inform the user of local stores where similar clothing items
 #  can be tried on.
 tags: []
-title: "Sexist swearing and slurs: Responses to gender-directed insults"
+title: "Perceptual-cognitive expertise when refereeing the scrum in rugby union"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: https://drive.google.com/file/d/1i5j_VE6-XUt8MUoEj8T9pZSArSMNyPlY/view?usp=sharing
+#url_pdf: https://www.tandfonline.com/doi/epub/10.1080/02640414.2019.1594568?needAccess=true
 #url_poster: '#'
 #url_preprint: 
 #url_project: ""
