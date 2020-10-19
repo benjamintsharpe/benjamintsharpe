@@ -58,9 +58,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=QF05WXgAAAAJ&hl=en
-- icon: researchgate
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=QF05WXgAAAAJ&hl=en
 # - %icon: github
 #   %icon_pack: fab
 #  %link: 
