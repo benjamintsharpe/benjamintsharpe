@@ -31,13 +31,16 @@ education:
   courses:
   - course: PhD in Psychology
     institution: University of Chichester
-    year: Current
+    year: On-Going
   - course: Associate Fellow, HEA
     institution: University of Chichester
     year: 2019
-  - course: MSc in Psychology of Sport and Exercise
+  - course: MSc Psychology of Sport and Exercise
     institution: University of Gloucestershire
     year: 2016
+  - course: BSc Applied Sport & Exericse Science
+    institution: University of Gloucestershire
+    year: 2015
   
 
 # Social/Academic Networking
