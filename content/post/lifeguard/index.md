@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: On-going research for part one of my PhD studies. Collaborating with RLSS UK, RLNI & Kings College London. 
+summary: On-going research for part one of my PhD studies, in collaboration with RLSS UK, RLNI & Kings College London. 
 # tags:
 # - Drown-Detection
 title: Research for future improvements in training and qualifications. 
