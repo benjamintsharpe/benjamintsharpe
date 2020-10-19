@@ -22,6 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Visual Search
+- Expertise
 - Signal Detection
 - Executive Function
 - Working Memory Capacity
