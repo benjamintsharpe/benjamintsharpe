@@ -21,19 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Collaborators:
 
-Professor Laura Ritchie, University of Chichester 
-
-Dr Oliver Runswick (https://runswickperformance.com/)
-
-Dr Phil Birch, University of Chichester
-
-Dr Matt Smith, University of Winchester
-
-Matt Jewiss, Universiy of Hertfordshire
-
-Dr Lee Moore, University of Bath
 
 
 
