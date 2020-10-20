@@ -9,11 +9,11 @@ image:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: 
+#  url: https://twitter.com/georgecushen
 #slides: example-slides
 summary: Collaborations for individual research.
- tags:
- - collab
+# tags:
+# - collab
 title: Collaborations
 url_code: ""
 url_pdf: ""
