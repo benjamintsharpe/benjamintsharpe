@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: 
 #slides: example-slides
-summary: Individuals that I have carried out research with.
+summary: Collaborations for individual research.
 # tags:
 # - Drown-Detection
 title: Collaborations
