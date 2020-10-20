@@ -13,7 +13,7 @@ image:
 #slides: example-slides
 summary: Collaborations for individual research.
 # tags:
-# - Drown-Detection
+# - collab
 title: Collaborations
 url_code: ""
 url_pdf: ""
