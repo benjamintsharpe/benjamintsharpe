@@ -9,7 +9,7 @@ image:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: 
 #slides: example-slides
 summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 # tags:
