@@ -13,7 +13,7 @@ links:
   url: https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1594568
 math: true
 projects:
-# - collab
+ - collab
 publication: In *Journal of Sports Sciences*
 #publication_short: 
 publication_types:
