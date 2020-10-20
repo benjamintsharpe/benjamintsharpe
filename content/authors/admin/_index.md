@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Benjamin T. Sharpe
+title: Benjamin Sharpe
 
 # Username (this should match the folder name)
 authors:
