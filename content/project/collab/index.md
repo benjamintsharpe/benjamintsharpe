@@ -12,7 +12,7 @@ image:
 #  url: 
 #slides: example-slides
 summary: Collaborations for individual research.
-# tags:
+ tags:
  - collab
 title: Collaborations
 url_code: ""
