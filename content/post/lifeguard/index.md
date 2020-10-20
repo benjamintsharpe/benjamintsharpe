@@ -10,7 +10,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-#slides: example-slides
+# slides: example-slides
 summary: On-going research for part one of my PhD research, in collaboration with RLSS UK, RLNI & Kings College London. 
 # tags:
 # - Drown-Detection
