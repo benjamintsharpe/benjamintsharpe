@@ -14,8 +14,8 @@ image:
 summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 # tags:
 # - Drown-Detection
-title: PhD Thesis
-url_code: "https://www.researchgate.net/project/PhD-Thesis-An-investigation-into-the-attributes-that-underpin-lifeguard-experience-and-drown-detection-performance"
+title: Collaborations
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
