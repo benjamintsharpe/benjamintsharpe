@@ -10,9 +10,6 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: 
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/project/PhD-Thesis-An-investigation-into-the-attributes-that-underpin-lifeguard-experience-and-drown-detection-performance
 #slides: example-slides
 summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
 # tags:
