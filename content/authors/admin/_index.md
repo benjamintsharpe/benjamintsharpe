@@ -61,7 +61,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://researchgate.net/profile/Benjamin_Sharpe4
-researchgate
 # - %icon: github
 #   %icon_pack: fab
 #  %link: 
