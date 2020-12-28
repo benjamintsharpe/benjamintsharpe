@@ -1,7 +1,7 @@
 ---
 abstract: This study aimed to capture how the coronavirus disease 2019 (COVID-19) crisis disrupted and affected individuals’ goal pursuits and self-efficacy beliefs early during the lockdown phase of COVID-19. Participants impacted by lockdown regulations accessed an online questionnaire during a 10-day window from the end of March to early April 2020 and reported a significant personal goal toward which they had been working, and then completed quantitative and qualitative survey items tapping self-efficacy beliefs for goal achievement, subjective caring about the goal during disrupted world events, and current pursuit or abandonment of the goal. The findings from both quantitative and qualitative measures demonstrated a significant drop in self-efficacy beliefs from before to during the pandemic with a large effect based on whether people thought they could still achieve their goal under current conditions. Over two-thirds of the sample was unsure or did not believe they could still carry out their goal, and over a quarter either abandoned or were uncertain they could pursue the goal. Despite this, people continued to care about their goals. Reasons for abandonment and strategies for coping with goals within the lockdown and beyond are discussed.
 authors:
-- L Ritchie, D Cervone, B T Sharpe
+- L Ritchie, D Cervone, BT Sharpe
 date: "2019-11-07T00:00:00-04:00"
 doi: "https://doi.org/10.3389/fpsyg.2020.559114"
 featured: false
