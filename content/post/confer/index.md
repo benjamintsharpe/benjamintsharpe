@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: Conference paper presented at the 8th Meeting of the Expertise and Skill Acquisition Network, London. 
+summary: Conference paper I presented at the 8th Meeting of the Expertise and Skill Acquisition Network, London. 
 # tags:
 # - Drown-Detection
 title: The effect of match play context on cognitive effort and perceptual-motor performance in golf putting. 
