@@ -1,7 +1,7 @@
 ---
-abstract: Compared to sports performers, relatively little is known about how sports officials make decisions at a perceptual-cognitive level. Thus, this study examined the decision-making accuracy and gaze behaviour of rugby union referees of varying skill levels while reviewing scrum scenarios. Elite (n = 9) and trainee (n = 9) referees, as well as experienced players (n = 9), made decisions while watching ten projected scrum clips and wearing a mobile eye-tracker. Decision-making accuracy and gaze behaviour were recorded for each scrum. The elite and trainee referees made more accurate decisions than the players, and differences in gaze behavior were observed. The elite and trainee referees displayed lower search rates, spent more time fixating central-pack (i.e., front rows, binds, and contact point) and less time fixating outer-pack (e.g., second rows) and non-pack (e.g., other) locations, and exhibited lower entropy than the players. While search rate failed to predict decision-making accuracy, the time spent fixating central-, outer-, and non-pack locations, as well as entropy, were significant predictors. The findings have implications for training perceptual-cognitive skill among sports officials.
+abstract: This study aimed to capture how the coronavirus disease 2019 (COVID-19) crisis disrupted and affected individuals’ goal pursuits and self-efficacy beliefs early during the lockdown phase of COVID-19. Participants impacted by lockdown regulations accessed an online questionnaire during a 10-day window from the end of March to early April 2020 and reported a significant personal goal toward which they had been working, and then completed quantitative and qualitative survey items tapping self-efficacy beliefs for goal achievement, subjective caring about the goal during disrupted world events, and current pursuit or abandonment of the goal. The findings from both quantitative and qualitative measures demonstrated a significant drop in self-efficacy beliefs from before to during the pandemic with a large effect based on whether people thought they could still achieve their goal under current conditions. Over two-thirds of the sample was unsure or did not believe they could still carry out their goal, and over a quarter either abandoned or were uncertain they could pursue the goal. Despite this, people continued to care about their goals. Reasons for abandonment and strategies for coping with goals within the lockdown and beyond are discussed.
 authors:
-- LJ Moore, DJ Harris, BT Sharpe, SJ Vine, MR Wilson
+- L Ritchie, D Cervone, B T Sharpe
 date: "2019-11-07T00:00:00-04:00"
 doi: "https://doi.org/10.1080/02640414.2019.1594568"
 featured: false
@@ -14,7 +14,7 @@ links:
 math: true
 projects:
  - collab
-publication: In *Journal of Sports Sciences*
+publication: In *Frontiers in Psychology*
 #publication_short: 
 publication_types:
 - "2"
@@ -28,7 +28,7 @@ tags: []
 title: "Goals and Self-efficacy Beliefs During the Initial COVID-19 Lockdown: A Mixed Methods Analysis"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: https://www.tandfonline.com/doi/epub/10.1080/02640414.2019.1594568?needAccess=true
+#url_pdf: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.559114/abstract
 #url_poster: '#'
 #url_preprint: 
 #url_project: ""
