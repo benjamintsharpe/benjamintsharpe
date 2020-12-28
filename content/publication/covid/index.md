@@ -25,7 +25,7 @@ publication_types:
 #  store location, to inform the user of local stores where similar clothing items
 #  can be tried on.
 tags: []
-title: "Perceptual-cognitive expertise when refereeing the scrum in rugby union"
+title: "Goals and Self-efficacy Beliefs During the Initial COVID-19 Lockdown: A Mixed Methods Analysis"
 #url_code: '#'
 #url_dataset: '#'
 #url_pdf: https://www.tandfonline.com/doi/epub/10.1080/02640414.2019.1594568?needAccess=true
