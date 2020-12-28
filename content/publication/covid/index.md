@@ -10,7 +10,7 @@ image:
   focal_point: "Center"
 links:
 - name: Full Article
-  url: https://www.tandfonline.com/doi/full/10.1080/02640414.2019.1594568
+  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.559114/abstract
 math: true
 projects:
  - collab
