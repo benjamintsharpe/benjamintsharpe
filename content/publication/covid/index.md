@@ -3,7 +3,7 @@ abstract: This study aimed to capture how the coronavirus disease 2019 (COVID-19
 authors:
 - L Ritchie, D Cervone, B T Sharpe
 date: "2019-11-07T00:00:00-04:00"
-doi: "https://doi.org/10.1080/02640414.2019.1594568"
+doi: "https://doi.org/10.3389/fpsyg.2020.559114"
 featured: false
 image:
   caption: ''
