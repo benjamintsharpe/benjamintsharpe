@@ -27,6 +27,7 @@ interests:
 - Executive Function
 - Working Memory Capacity
 - Attention Control
+- Self-efficacy
 
 education:
   courses:
