@@ -35,11 +35,11 @@ experience:
         * Cognitive Psychology
         * Cognition & Usability 
         
-  - title: Professor
-    company: University X
+  - title: Psychology Laboratory Technician 
+    company: University of Chichester
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Chichester, UK
+    date_start: '2019-10-04'
+    date_end: ''
+    description: Psychology Lab Technician within Institute of Sport, as well as at the Institute of Education, Health and Social Sciences, supporting and contributing to the overall functioning of the Psychology Lab. The role includes providing specialist technical support to staff and students undertaking detailed scientific testing, demonstrating support and delivery of specialist equipment, and actively participating in the implementation of the Universities recruitment strategy.
 ---
