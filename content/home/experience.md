@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Associate Lecturer
     company: Institute of Education, Health, and Social Sciences, University of Chichester
-    company_url: ''
+    company_url: 'https://www.chi.ac.uk/department-psychology-and-counselling/our-courses'
     location: Chichester, UK
     date_start: '2019-10-04'
     date_end: ''
@@ -45,7 +45,7 @@ experience:
 
   - title: Associate Lecturer
     company: Institute of Sport, University of Chichester
-    company_url: ''
+    company_url: 'https://www.chi.ac.uk/chichester-institute-sport'
     location: Chichester, UK
     date_start: '2018-01-04'
     date_end: '2020-02-04'
