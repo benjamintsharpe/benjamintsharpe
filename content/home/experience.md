@@ -37,7 +37,7 @@ experience:
         
   - title: Psychology Laboratory Technician 
     company: University of Chichester
-    company_url: ''
+    company_url: 'https://www.chi.ac.uk/research'
     location: Chichester, UK
     date_start: '2019-10-04'
     date_end: ''
