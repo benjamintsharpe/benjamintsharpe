@@ -31,9 +31,9 @@ experience:
     description: |2-
         Modules Taught:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Biological Psychology
+        * Cognitive Psychology
+        * Cognition & Usability 
         
   - title: Professor
     company: University X
