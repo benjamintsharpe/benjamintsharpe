@@ -25,8 +25,8 @@ experience:
   - title: Associate Lecturer
     company: Institute of Education, Health, and Social Sciences
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Chichester, UK
+    date_start: '2019-10-04'
     date_end: ''
     description: |2-
         Responsibilities include:
