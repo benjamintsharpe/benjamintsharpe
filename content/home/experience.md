@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Lecturer
-    company: Institute of Education, Health, and Social Sciences
+    company: Institute of Education, Health, and Social Sciences, University of Chichester
     company_url: ''
     location: Chichester, UK
     date_start: '2019-10-04'
@@ -44,7 +44,7 @@ experience:
     description: Working with the Institute of Sport, as well as at the Institute of Education, Health and Social Sciences, supporting and contributing to the overall functioning of the Psychology Lab. The role includes providing specialist technical support to staff and students undertaking detailed scientific testing, demonstrating support and delivery of specialist equipment, and actively participating in the implementation of the Universities recruitment strategy.
 
   - title: Associate Lecturer
-    company: Institute of Sport
+    company: Institute of Sport, University of Chichester
     company_url: ''
     location: Chichester, UK
     date_start: '2018-01-04'
