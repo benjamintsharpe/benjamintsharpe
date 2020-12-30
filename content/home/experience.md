@@ -29,7 +29,7 @@ experience:
     date_start: '2019-10-04'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Modules Taught:
         
         * Analysing
         * Modelling
