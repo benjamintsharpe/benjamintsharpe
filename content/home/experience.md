@@ -44,16 +44,16 @@ experience:
     description: Working with the Institute of Sport, as well as at the Institute of Education, Health and Social Sciences, supporting and contributing to the overall functioning of the Psychology Lab. The role includes providing specialist technical support to staff and students undertaking detailed scientific testing, demonstrating support and delivery of specialist equipment, and actively participating in the implementation of the Universities recruitment strategy.
 
   - title: Associate Lecturer
-    company: Institute of Education, Health, and Social Sciences
+    company: Institute of Sport
     company_url: ''
     location: Chichester, UK
-    date_start: '2019-10-04'
+    date_start: '2018-01-04'
     date_end: ''
     description: |2-
         Modules Taught:
         
-        * Biological Psychology
-        * Cognitive Psychology
-        * Cognition & Usability
+        * Application of Psychology in Sport & Exercise (Skill Acquisition)
+        * Cognitive Psychology in Sport
+        * Motivating Athletes
 
 ---
