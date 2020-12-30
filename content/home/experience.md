@@ -48,7 +48,7 @@ experience:
     company_url: ''
     location: Chichester, UK
     date_start: '2018-01-04'
-    date_end: ''
+    date_end: '2020-02-04'
     description: |2-
         Modules Taught:
         
