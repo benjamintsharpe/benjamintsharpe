@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: 
 #slides: example-slides
-summary: An investigation into the attributes that underpin lifeguard experience and drown detection performance.
+summary: Provide a comprehensive examination of the factors influencing mental health in professional esports players.
 # tags:
 # - esport
 title: Esport
