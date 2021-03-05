@@ -14,6 +14,7 @@ links:
 math: true
 projects:
  - collab
+ - visionscience
 publication: In *Journal of Sports Sciences*
 #publication_short: 
 publication_types:
