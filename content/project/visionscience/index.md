@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Provide a comprehensive examination of the factors influencing mental health in professional esports players, specifically in CS:GO.    
+Research investigating the visual underpinings of multiple disciplines using eye tracking technology.    
 
 
 
