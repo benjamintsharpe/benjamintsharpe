@@ -13,8 +13,8 @@ image:
 #slides: example-slides
 summary: Provide a comprehensive examination of the factors influencing mental health in professional esports players.
 # tags:
-# - esport
-title: Esport
+# - visionscience
+title: Vision Science
 url_code: ""
 url_pdf: ""
 url_slides: ""
