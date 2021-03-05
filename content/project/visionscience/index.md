@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: 
 #slides: example-slides
-summary: Provide a comprehensive examination of the factors influencing mental health in professional esports players.
+summary: Research investigating the visual underpinings of multiple disciplines using eye tracking technology.  
 # tags:
 # - visionscience
 title: Vision Science
