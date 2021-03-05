@@ -13,7 +13,8 @@ links:
   url: 
 math: true
 projects:
- - collab
+ - collab 
+ - visionscience
 publication: In *Journal of Sport and Exercise Psychology*
 #publication_short: 
 publication_types:
