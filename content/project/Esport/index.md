@@ -14,7 +14,7 @@ image:
 summary: Provide a comprehensive examination of the factors influencing mental health in student and professional esports players.
 # tags:
 # - esport
-title: Esport
+title: Esports Research
 url_code: ""
 url_pdf: ""
 url_slides: ""
