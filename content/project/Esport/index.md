@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: 
 #slides: example-slides
-summary: Provide a comprehensive examination of the factors influencing mental health in professional esports players.
+summary: Provide a comprehensive examination of the factors influencing mental health in student and professional esports players.
 # tags:
 # - esport
 title: Esport
@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Provide a comprehensive examination of the factors influencing mental health in professional esports players, specifically in CS:GO.    
+Provide a comprehensive examination of the factors influencing mental health in student and professional esports players, specifically in CS:GO.    
 
 
 
