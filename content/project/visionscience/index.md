@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: 
 #slides: example-slides
-summary: Individual research investigating the visual underpinings of multiple disciplines using eye tracking technology.  
+summary: Investigating the visual underpinings of expertise across multiple disciplines using eye tracking technology.  
 # tags:
 # - visionscience
 title: Vision Science
@@ -21,7 +21,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Research investigating the visual underpinings of multiple disciplines using eye tracking technology.    
+Investigating the visual underpinings of expertise across multiple disciplines using eye tracking technology.    
 
 
 
